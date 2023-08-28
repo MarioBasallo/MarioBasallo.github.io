@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mario José Basallo Triana / Site Title"
+title                    : "Mario José Basallo Triana"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
